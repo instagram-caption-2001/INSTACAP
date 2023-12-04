@@ -1,0 +1,22 @@
+import random
+
+def generate_caption():
+    # Lists of different elements for the caption
+    adjectives = ["Beautiful", "Amazing", "Stunning", "Incredible", "Charming"]
+    nouns = ["landscape", "view", "moment", "day", "adventure"]
+    verbs = ["explore", "captivate", "discover", "cherish", "experience"]
+
+    # Randomly select elements from the lists
+    adjective = random.choice(adjectives)
+    noun = random.choice(nouns)
+    verb = random.choice(verbs)
+
+    # Create the caption by combining the selected elements
+    caption = f"{adjective} {noun} - {verb} the beauty!"
+
+    return caption
+
+if __name__ == "__main__":
+    # Generate a caption and print it
+    caption = generate_caption()
+    print("Your caption:", caption)
