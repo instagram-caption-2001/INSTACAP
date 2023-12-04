@@ -5,3 +5,14 @@ so basically the app is this great caption idea that takes ya music steamer and 
 i think this is a great app idea 
 start thiniking of steps to finish this 
 jot notes downs about this
+
+
+
+
+Name: Olivia Rodriguez
+
+Age: 32
+
+Occupation: Environmental Scientist
+
+Background: Olivia grew up in a small town surrounded by nature, fostering a deep appreciation for the environment from an early age. She earned her bachelor's
